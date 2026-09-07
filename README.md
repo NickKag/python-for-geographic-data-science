@@ -14,7 +14,7 @@
 
 ## Περιβάλλον
 
-Τα notebooks έχουν σχεδιαστεί για χρήση με **Positron + Jupyter + uv**.
+Τα notebooks έχουν σχεδιαστεί για χρήση με **Positron + Jupyter**.
 
 ## License
 

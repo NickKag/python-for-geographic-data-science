@@ -2,7 +2,9 @@
 __pycache__/
 *.py[codz]
 *$py.class
-/Data/
+Data/*
+!Data/course/
+!Data/course/**
 
 # C extensions
 *.so

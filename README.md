@@ -19,3 +19,5 @@
 ## License
 
 MIT License
+
+Data sources, attribution, and redistribution notes are documented in Data/course/DATA_COPYRIGHT.md.
